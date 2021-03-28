@@ -1,4 +1,4 @@
-There are two possibilities how to retrieve the datasets that can be used for the model building:
+There are two possibilities how to retrieve the final datasets that can be used for the model building, EDA, etc.:
 
 1) When you have chosen to use the raw data and run the Python code in the folders *"02_Data Collection"* and *"03_Data Cleaning"* by yourself, the necessary datasets should be directly available in this folder.
 
