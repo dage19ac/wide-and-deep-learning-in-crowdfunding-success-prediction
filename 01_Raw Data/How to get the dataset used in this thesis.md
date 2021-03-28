@@ -3,7 +3,7 @@
 The dataset in this thesis is based on two previously collected data sources, which were used as seed lists. Further, an additional web scraper based on the GraphQL language gathered additional features for the crowdfunding campaigns in the datasets.
 To replicate the dataset used in this thesis, there are two options:
 1) Download the raw data described in this section and run the Python code in the folders *02_Data Collection* and *03_Data Cleaning*.
-2) Use the already merged and cleaned datasets, which are available in the folder *04_Final Datasets*.
+2) Use the already merged and cleaned datasets, which are available as release. For more information, see *04_Final Datasets*.
 
 
 ## Get the raw data:
